@@ -42,8 +42,8 @@ It is an assignment built as part of a **DevTown bootcamp**.
 
 1. Clone the repository
    ```bash
-   git clone <your-repo-url>
-   cd <project-folder>
+   git clone https://github.com/Aastha-Bharti/Auth-Devtown.git
+   cd AuthAssignment
    ```
 2. Install dependencies
    ```npm install```
